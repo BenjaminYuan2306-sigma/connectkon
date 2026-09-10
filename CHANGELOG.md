@@ -2,7 +2,7 @@
 
 Notable changes are recorded here. Repository releases use semantic version labels; hosted deployment version numbers are tracked separately.
 
-## [1.0.0] - 2026-09-09
+## [1.0.0] - 2026-09-10
 
 Initial repository release. This snapshot includes the core networking workspace, the university marker and the owner analytics added during the initial product build.
 
